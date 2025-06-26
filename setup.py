@@ -36,7 +36,6 @@ EXTRA_PACKAGES = {
         "matplotlib>=3.9.1",
         "jupyter>=1.0.0",
         "opencv-python>=4.7.0",
-        "eva-decord>=0.6.1",
     ],
     "dev": [
         "black==24.2.0",
@@ -59,7 +58,6 @@ EXTRA_PACKAGES = {
         "moviepy==1.0.3",
         "pydantic==2.10.6",
         "timm==1.0.15",
-        "eva-decord==0.6.1",
     ],
 }
 
